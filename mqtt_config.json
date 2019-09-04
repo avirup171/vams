@@ -1,0 +1,12 @@
+    
+{
+    "mqtt_host":"localhost",
+    "mqtt_port":"1883",
+    "mqtt_uid":"",
+    "mqtt_password":"",
+    "mqtt_topic":"telemetry",
+    "com_port":"/dev/rfcomm0",
+    "baud_rate":"57600",
+    "device_type":"car",
+    "device_id":"wb74as3237"
+}

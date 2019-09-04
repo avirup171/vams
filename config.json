@@ -1,0 +1,10 @@
+{
+    "model_path":"/home/avirup171/Documents/vams/master_node/VAMS-git/openvino/frozen_inference_graph.xml",
+    "cpu_extension":"/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so",
+    "input":"",
+    "plugin_dir":"",
+    "device":"CPU",
+    "labels":"",
+    "prob_threshold":"",
+    "output_dir":"results/"
+}
